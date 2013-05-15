@@ -1,0 +1,9 @@
+SPArqGISTVersion = 22.99.37
+Projection      = CoordSys Earth Projection 8, 79, "m", -2, 49, 0.9996012717, 400000, -100000
+IntFile         = C:\IntFiles\101002222_22_COM_5.int
+LEasting        = 332800
+BNorthing       = 385900
+NumPointsEW     = 81
+NumPointsNS     = 41
+Resolution      = 100
+OnlySameFrequency = F

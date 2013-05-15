@@ -1,0 +1,9 @@
+sparqgistversion 	* What
+projection 		* These
+intfile 		* settings
+leasting 		* do 
+bnorthing 		* goes
+numpointsew 		* here
+numpointsns 		*
+resolution 		*
+onlysamefrequency 	* room for expansion
